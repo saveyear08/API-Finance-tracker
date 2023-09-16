@@ -1,0 +1,2 @@
+# PERSONAL FINANCE TRACKER API
+This repository hosts the API for Personal Finance Tracker application. This app is used to track income, expenses, savings, investments, and other financial transactions, providing users with insights into their financial health and helping them make informed financial decisions. 
